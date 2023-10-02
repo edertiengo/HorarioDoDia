@@ -1,0 +1,35 @@
+body{
+font: normal 15pt Arial;
+background-color: aqua;
+text-align: center;
+}
+
+section{
+background: #fff;
+border-radius: 10px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 5px 5px 10px black;    
+}
+
+header{
+color: #fff;
+text-align: center;    
+}
+
+.manha{
+border-radius: 20px;    
+}
+
+footer{
+text-align: center;
+color: #fff;
+font-style: italic;    
+}
+
+div image{
+border-radius: 160px;
+margin-top: 15px;
+margin-bottom: 10px;    
+}
